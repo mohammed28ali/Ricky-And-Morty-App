@@ -35,13 +35,11 @@ $ cd marvel_app/
 ## Screens
 -   Characters Screen
 -   Characters Detiles Screen
---------------------------------
 ## Dependencies
 - [x] [flutter_bloc]
 - [x] [dio]
 - [x] [flutter_offline]
 - [x] [animated_text_kit]
---------------------------
 ## Screens
 |1|2|
 |------|-------|
