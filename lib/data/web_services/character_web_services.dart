@@ -29,6 +29,8 @@ class CharacterWebServices {
       return [];
     }
   }
+
+
   Future< List<Map<String, dynamic>>> getAllEpisode() async {
     try {
       List<Map<String, dynamic>> allEntities = [];
