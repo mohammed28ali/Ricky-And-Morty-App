@@ -15,8 +15,8 @@ Ricky and Morty app is open-source  app for Android & IOS. It is built with Dart
 #### 2. Clone the repo
 
 ```sh
-$ git clone https://github.com/mohammed28ali/marvel_app
-$ cd marvel_app/
+$ git clone https://github.com/mohammed28ali/Ricky-And-Morty-App
+$ cd Ricky-And-Morty-App/
 ```
 
 ##### 3. Get all the packages
