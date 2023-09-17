@@ -30,9 +30,8 @@ $ cd marvel_app/
 ##### 5. Run the project
 
 `flutter run` or simply press ` F5 key` if you are using VSCode
-
+--------------------------------
 ## Screens
-
 -   Characters Screen
 -   Characters Detiles Screen
 --------------------------------
